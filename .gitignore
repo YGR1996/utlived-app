@@ -1,0 +1,17 @@
+# Binaries
+/livestream
+/dist/
+*.exe
+*.out
+
+# Go
+*.test
+*.prof
+vendor/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
